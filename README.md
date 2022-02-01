@@ -23,11 +23,7 @@ In the mod folder, edit license.txt. If it does not exist, copy the sample_LICEN
 ```
 [author] 
 
-(license_1_short_name)
-texture_name
-texture_name
-...
-(license_2_short_name) <-- if applicable
+(license_short_name)
 texture_name
 texture_name
 ```
