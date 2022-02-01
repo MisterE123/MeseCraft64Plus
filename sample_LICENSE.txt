@@ -1,0 +1,33 @@
+Note: see individual mod folders for actual license info.
+%%%%%%%%%%%%%%%  ATTRIBUTION  %%%%%%%%%%%%%%%%%%%
+----------------------------------
+Format:
+----------------------------------
+[author] 
+
+(license_1_short_name)
+texture_name
+texture_name
+...
+(license_2_short_name) <-- if applicable
+texture_name
+texture_name 
+...
+
+----------------------------------
+
+
+
+
+
+%%%%%%%%%%%%%%%  License Texts  %%%%%%%%%%%%%%%%%%%
+
+
+Name:
+*********
+License Text:
+
+
+Name:
+*********
+License Text:
