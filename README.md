@@ -1,15 +1,21 @@
 Textures for Mesecraft
 
 **Contributing:**
+
 *Palette*:
 Use The palette earth_vibes
 https://lospec.com/palette-list/earth-vibes
 
 *General Texturing guidelines*: (subject to revision)
+
 1) use shading, using similar colors to indicate shadow over areas.
+
 2) do not make textures too flat; use a varienty of colors and shadow where possible.
+
 3) do not stray from the palette; or get special permission to do so. Use alpha mixing sparingly or not at all if possible within a texture
+
 4) textures for objects that are items-only, should, in general, have a dark outline around the texture.
+
 
 *Licensing*: Make sure the license you choose is compatible with the project. If you are unsure, ask the project maintainer. Non-commercial licenses are not accepted in this project.
 
