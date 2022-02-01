@@ -10,7 +10,7 @@ https://lospec.com/palette-list/earth-vibes
 
 1) use shading, using similar colors to indicate shadow over areas.
 
-2) do not make textures too flat; use a varienty of colors and shadow where possible.
+2) do not make textures too flat; use a variety of colors and shadow where possible. Also, use color blocking; that is, using solid areas/lines/patterns of colors, rather than random-noise-based texturing where possible.
 
 3) do not stray from the palette; or get special permission to do so. Use alpha mixing sparingly or not at all if possible within a texture
 
