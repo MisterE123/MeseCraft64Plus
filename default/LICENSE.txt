@@ -40,7 +40,10 @@ default_blueberry_overlay
 default_book 
 default_bookshelf 
 default_book_written 
+default_bookshelf_slot
+default_brick
 default_wood 
+
 
 
 
