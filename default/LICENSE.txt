@@ -46,7 +46,7 @@ default_bookshelf_slot
 default_brick
 default_wood 
 default_bronze_block
-
+default_bronze_ingot
 
 
 
