@@ -44,10 +44,3 @@ CC-BY-SA 4.0:
 Human readable: https://creativecommons.org/licenses/by-sa/4.0/
 License text: https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt
 
-or 
-
-CC0:
-Human readable: https://creativecommons.org/publicdomain/zero/1.0/
-License text: https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt
-
-
