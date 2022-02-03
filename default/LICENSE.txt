@@ -17,6 +17,8 @@ texture_name
 ----------------------------------
 [MisterE]
 
+(CC-BY-SA 4.0)
+
 bubble 
 crack_anylength 
 default_acacia_bush_sapling 
