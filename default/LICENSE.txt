@@ -48,7 +48,13 @@ default_wood
 default_bronze_block
 default_bronze_ingot
 default_bush_sapling
-
+default_bush_stem
+default_cactus_side
+default_cactus_top
+default_chest_front
+default_chest_inside
+default_chest_side
+default_chest_top
 
 
 
