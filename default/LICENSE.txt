@@ -55,7 +55,7 @@ default_chest_front
 default_chest_inside
 default_chest_side
 default_chest_top
-
+default_clay
 
 
 
