@@ -56,6 +56,24 @@ default_chest_inside
 default_chest_side
 default_chest_top
 default_clay
+default_clay_brick
+default_clay_lump
+default_coal_block
+default_coal_lump
+default_cobble
+default_coniferous_litter
+default_coniferous_litter_side
+default_copper_block
+default_copper_ingot
+default_copper_lump
+default_coral_brown
+default_coral_cyan
+default_coral_green
+default_coral_orange
+default_coral_pink
+default_coral_skeleton
+default_desert_cobble
+default_desert_sand
 
 
 
