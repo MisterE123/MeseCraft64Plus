@@ -77,6 +77,11 @@ default_desert_sand
 
 
 
+[threehymns]
+
+(CC-BY-SA 4.0)
+default_silver_sand
+
 
 %%%%%%%%%%%%%%%  License Texts  %%%%%%%%%%%%%%%%%%%
 
