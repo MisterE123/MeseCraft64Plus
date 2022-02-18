@@ -15,87 +15,17 @@ texture_name
 ...
 
 ----------------------------------
-[MisterE]
-
-(CC-BY-SA 4.0)
-
-bubble 
-crack_anylength 
-default_acacia_bush_sapling 
-default_acacia_bush_stem 
-default_acacia_leaves 
-default_acacia_leaves_simple 
-default_acacia_sapling 
-default_acacia_tree 
-default_acacia_tree_top 
-default_acacia_wood 
-default_apple 
-default_aspen_leaves 
-default_aspen_sapling 
-default_aspen_tree 
-default_aspen_tree_top 
-default_aspen_wood 
-default_blueberries 
-default_blueberry_bush_leaves 
-default_blueberry_bush_sapling
-default_blueberry_overlay 
-default_book 
-default_bookshelf 
-default_book_written 
-default_bookshelf_slot
-default_brick
-default_wood 
-default_bronze_block
-default_bronze_ingot
-default_bush_sapling
-default_bush_stem
-default_cactus_side
-default_cactus_top
-default_chest_front
-default_chest_inside
-default_chest_side
-default_chest_top
-default_clay
-default_clay_brick
-default_clay_lump
-default_coal_block
-default_coal_lump
-default_cobble
-default_coniferous_litter
-default_coniferous_litter_side
-default_copper_block
-default_copper_ingot
-default_copper_lump
-default_coral_brown
-default_coral_cyan
-default_coral_green
-default_coral_orange
-default_coral_pink
-default_coral_skeleton
-default_desert_cobble
-default_desert_sand
-default_large_cactus_seedling
-default_lava
-default_lava_flowing_animated
-default_lava_source_animated
-default_leaves
-default_leaves_simple
-default_marram_grass_1
-default_marram_grass_2
-default_marram_grass_3
-default_mese_block
-default_mese_crystal
-default_mese_crystal_fragment
-default_tool_steelsword
-default_tool_woodsword
-
-
-
 
 [threehymns]
 
 (CC-BY-SA 4.0)
-default_silver_sand
+farming_tool_bronzehoe
+farming_tool_diamondhoe
+farming_tool_mesehoe
+farming_tool_steelhoe
+farming_tool_stonehoe
+farming_tool_woodhoe
+
 
 
 %%%%%%%%%%%%%%%  License Texts  %%%%%%%%%%%%%%%%%%%
